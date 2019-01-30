@@ -21,7 +21,10 @@ const styles = {
         shadowRadius: 2,
         marginLeft: 5,
         marginRight: 5,
-        marginTop: 10,
+        marginBottom: 350,
+        // position: 'relative',
+        // flexDirection: 'column',
+        // justifyContent: 'space-around'
     }
 };
 
